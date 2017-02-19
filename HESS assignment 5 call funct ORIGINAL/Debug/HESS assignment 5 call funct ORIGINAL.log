@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 hess assignment 5 call funct original\hess assignment 5 call funct original\source.cpp(141): warning C4715: 'GetValue': not all control paths return a value
+  LINK : C:\Users\Stephanie\Documents\Visual Studio 2015\Projects\CS 161 HESS assignment 5 call funct ORIGINAL\Debug\HESS assignment 5 call funct ORIGINAL.exe not found or not built by the last incremental link; performing full link
+  HESS assignment 5 call funct ORIGINAL.vcxproj -> C:\Users\Stephanie\Documents\Visual Studio 2015\Projects\CS 161 HESS assignment 5 call funct ORIGINAL\Debug\HESS assignment 5 call funct ORIGINAL.exe
